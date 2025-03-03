@@ -1,4 +1,4 @@
-##List of main commands
+## List of main commands
 ___
 
 * git status
